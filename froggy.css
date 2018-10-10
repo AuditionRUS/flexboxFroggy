@@ -37,7 +37,7 @@ html, body {
 }
 
 #pond, #background {
-	align-content: flex-start;
+	align-content: flex-end;
 	flex-flow: row wrap;
     position: absolute;
     top: 0;
