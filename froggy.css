@@ -21,7 +21,7 @@ html, body {
 	width: 80px;
 	height: 80px;
 
-	margin: 20px 23px 20px 20px;
+	margin: 20px 23px 20px 18px;
 	justify-content: flex-end;
 }
 
@@ -53,6 +53,7 @@ html, body {
 
 }
 .yellow {
+	order:1;
 	align-self: flex-end;
 }
 
