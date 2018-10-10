@@ -38,6 +38,7 @@ html, body {
 
 #pond, #background {
 
+justify-content: space-between;
     position: absolute;
     top: 0;
     left: 0;
