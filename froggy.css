@@ -37,9 +37,9 @@ html, body {
 }
 
 #pond, #background {
-	flex-direction: column-reverse;
-	align-content: center;
-	flex-wrap: wrap;
+	flex-flow: column-reverse wrap-reverse;
+	justify-content: center;
+	align-content: space-between;
     position: absolute;
     top: 0;
     left: 0;
