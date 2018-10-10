@@ -39,8 +39,6 @@ html, body {
 #pond, #background {
 	/*justify-content: flex-end;
 	/*align-items: flex-end;*/
-	justify-content: flex-end;
-	flex-direction: row-reverse;
     position: absolute;
     top: 0;
     left: 0;
@@ -51,7 +49,11 @@ html, body {
 }
 #background{
 	justify-content: flex-end;
-	flex-direction: row-reverse;
+	flex-direction: column;
+}
+#pond{
+	justify-content: flex-end;
+	flex-direction: column;
 }
 
 
