@@ -37,6 +37,7 @@ html, body {
 }
 
 #pond, #background {
+	align-items: flex-start;
     position: absolute;
     top: 0;
     left: 0;
@@ -51,9 +52,14 @@ html, body {
 #pond{
 
 }
-.red{
-	order: -2;
+.yellow {
+	align-self: flex-end;
 }
+
+.yellowpod{
+	align-self: flex-end;
+}
+
 
 
 
