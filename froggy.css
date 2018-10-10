@@ -39,7 +39,7 @@ html, body {
 #pond, #background {
 
 	justify-content: center;
-	align-items: flex-end;
+	align-items: center;
     position: absolute;
     top: 0;
     left: 0;
