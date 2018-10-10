@@ -38,7 +38,8 @@ html, body {
 
 #pond, #background {
 
-justify-content: space-between;
+	justify-content: center;
+	align-items: flex-end;
     position: absolute;
     top: 0;
     left: 0;
