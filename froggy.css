@@ -37,8 +37,8 @@ html, body {
 }
 
 #pond, #background {
-	/*justify-content: flex-end;
-	/*align-items: flex-end;*/
+	justify-content: space-between;
+	flex-direction: column-reverse;
     position: absolute;
     top: 0;
     left: 0;
@@ -48,12 +48,8 @@ html, body {
 
 }
 #background{
-	justify-content: flex-end;
-	flex-direction: column;
 }
 #pond{
-	justify-content: flex-end;
-	flex-direction: column;
 }
 
 
