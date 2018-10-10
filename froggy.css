@@ -38,8 +38,8 @@ html, body {
 
 #pond, #background {
 
-	justify-content: center;
-	align-items: center;
+	justify-content: space-around;
+	align-items: flex-end;
     position: absolute;
     top: 0;
     left: 0;
