@@ -21,7 +21,7 @@ html, body {
 	width: 80px;
 	height: 80px;
 
-	margin: 15px 15px 15px 15px;
+	margin: 20px 23px 15px 15px;
 	justify-content: flex-end;
 }
 
@@ -38,8 +38,10 @@ html, body {
 
 #pond, #background {
 
-	justify-content: space-around;
-	align-items: flex-end;
+	
+	flex-direction: row-reverse;
+	/*justify-content: flex-end;
+	/*align-items: flex-end;*/
     position: absolute;
     top: 0;
     left: 0;
@@ -48,4 +50,6 @@ html, body {
     padding: 1em;
 
 }
+
+
 
